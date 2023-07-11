@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Trabalho-Final-Lara</string>
+
+    <string name="action_add">Insert</string>
+    <string name="txt_name">Name:</string>
+    <string name="txt_season">Season:</string>
+    <string name="txt_category">Category:</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_ok">OK</string>
+    <string name="author">Author</string>
+    <string name="nameAuthor">Lara Victoria</string>
+    <string name="email">Laracixspereira@gmail.com</string>
+    <string name="bio">"This is an android job and it cost me a lot of tears. Thanks for reading "</string>
+    <string name="end">All rights reserved</string>
+    <string name="action_author">Author</string>
+
+</resources>
